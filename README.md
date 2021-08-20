@@ -12,4 +12,5 @@
 |Read5|[go to the read5](https://hamzamt99.github.io/reading-notes2/Read)
 |Read6|[go to the read6](https://hamzamt99.github.io/reading-notes2/Read6)
 |Read7|[go to the read7](https://hamzamt99.github.io/reading-notes2/read7)
+|Read8|[go to the read8](https://hamzamt99.github.io/reading-notes2/Read8)
 

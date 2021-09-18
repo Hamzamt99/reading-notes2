@@ -20,6 +20,6 @@
 |Read13|[go to the read13](https://hamzamt99.github.io/reading-notes2/Read13)
 |Read14a|[go to the read14a](https://hamzamt99.github.io/reading-notes2/Read14a)
 |Read14b|[go to the read14b](https://hamzamt99.github.io/reading-notes2/Read14b)
-|Read14b|[go to the read01](https://hamzamt99.github.io/reading-notes2/Read01)
+|Read01|[go to the read01](https://hamzamt99.github.io/reading-notes2/Read01)
 
 
